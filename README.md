@@ -1,2 +1,2 @@
 # Hello-world
-I'm Olecksandr. I love c#, delphi. In future i want to learn C++.
+I'm Olecksandr. I love c# and in future i want to become .Net Developer
